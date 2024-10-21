@@ -1,5 +1,6 @@
 name: Publish @abrucci/ytdl-core
 on:  
+  workflow_dispatch:
   push:
     tags:
       - '*'
