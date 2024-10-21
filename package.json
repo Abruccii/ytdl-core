@@ -7,7 +7,7 @@
     "download",
     "distube"
   ],
-  "version": "4.14.4",
+  "version": "5.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Abruccii/ytdl-core"
