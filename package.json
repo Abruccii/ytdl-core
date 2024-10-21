@@ -47,7 +47,10 @@
     "@types/node": "^22.1.0",
     "eslint": "^8.57.0",
     "typescript": "^5.5.4"
-  }
+  },
+  "engines": {
+    "node": ">16"
+  },
   "license": "MIT",
   "funding": "https://github.com/distubejs/ytdl-core?sponsor"
 }
